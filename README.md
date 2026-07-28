@@ -1,4 +1,4 @@
 # New Project
 
 This Project was created from local system
-created by Gayatri Barve
+created by Gayatri Barve.
